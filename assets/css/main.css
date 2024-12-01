@@ -836,6 +836,7 @@ textarea {
   border-radius: 5px;
   margin-top: 10px;
   padding: 10px;
+  color: #fff;
 }
 
 input::placeholder {
@@ -936,7 +937,7 @@ h4 {
 
 p {
   margin: 5px 0;
-  color: #333; /* Maintien d'une couleur textuelle foncée pour la lisibilité */
+  color: #000; /* Maintien d'une couleur textuelle foncée pour la lisibilité */
 }
 
 .logo2 {
@@ -959,6 +960,9 @@ p {
 .copy p {
   margin: 0;
   font-size: 14px;
+}
+.droit{
+  color: #fff;
 }
 
 /* Responsive */
